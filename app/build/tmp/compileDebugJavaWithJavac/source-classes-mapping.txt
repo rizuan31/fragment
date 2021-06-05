@@ -1,0 +1,2 @@
+com/example/fragmentz/BuildConfig.java
+ com.example.fragmentz.BuildConfig
